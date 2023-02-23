@@ -23,7 +23,7 @@ app.use(bodyparser.urlencoded({
 
 
 //load routers
-app.use('/',require(''));
+// app.use('/',require(''));
 
 
 //listen port
